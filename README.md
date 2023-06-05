@@ -1,6 +1,4 @@
-# Code Refactor Starter Code
-=======
-# <Marketing Site Update>
+<Marketing Site Update>
 
 ## Description
 

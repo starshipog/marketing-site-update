@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Code Refactor Starter Code
 =======
 # <Marketing Site Update>
